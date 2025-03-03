@@ -12,7 +12,7 @@ potengowanie = liczba2 ** liczba1
 pierwiastek = 16 ** 0.5
 pierwiastek2 = math.sqrt(16)
 ilorazCalkowity = liczba2 // liczba1
-modulo = liczba2 % liczba1
+modulo = liczba2 % liczba1 # reszta
 
 liczba3 = liczba3 + 2
 print(liczba3)

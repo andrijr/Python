@@ -18,7 +18,7 @@ roznica = b-a
 iloraz = a/b
 potega = 2 ** 3
 
-reszta = 11 % 3
+reszta = 11 % 3 # moduł0
 print(reszta)
 
 calkowita = 5 // 2

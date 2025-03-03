@@ -1,3 +1,11 @@
+# operatoray logiczne
+# ==
+# >
+# <
+# >=
+# <=
+# !=
+
 value = int(input("Podaj liczbę: "))
 
 if value > 10:

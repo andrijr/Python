@@ -1,9 +1,11 @@
 # %-formatting
 # str.format()
 
-print('%(lang)s has %(number)03d quote types.' % {'lang': "Python", "number": 2})
+
 print('%s has %03d quote types.' % ("Python", 2))
 print('%s has %d quote types.' % ("Python", 2))
+print('%(lang)s has %(number)03d quote types.' % {'lang': "Python", "number": 2})
+
 
 print("1 po angielsku: %s \n2 po angielsku: %s" % ('one', 'two'))
 print("1 po angielsku: {} \n2 po angielsku: {}".format('one', 'two'))

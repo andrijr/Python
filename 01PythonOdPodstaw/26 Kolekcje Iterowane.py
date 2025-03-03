@@ -25,6 +25,7 @@ print("----")
 
 lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 # [ start : koniec : krok ]
+print(lista[2:8], "lista od 3 do 8 ")
 print(lista[2:8:2], "lista od 3 do 8 z krokiem 2 czyli 3 5 7 ")
 print(lista[2], "trzeci element listy")
 print(lista[:2], "lista od początku do  2 elementu")
@@ -37,10 +38,12 @@ print(lista[::-1], "lista odwrócona")
 print(lista[1:7], "lista od 2 od 7 elementu")
 print(lista[1:-1], "lista bez pierwszego i ostatniego elementu")
 
+
+
 # konwersja
 string = "tekst"
 listaZTekstu = list(string)
-listaZTekstu = list("tekst")
+listaZTekstu = list("tekst xx")
 print(listaZTekstu)
 
 lista = listaZTekstu

@@ -1,27 +1,275 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="48ecffc7-02ec-4b34-963d-264eb6293a65" name="Changes" comment="" />
+    <list default="true" id="48ecffc7-02ec-4b34-963d-264eb6293a65" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/37 4 listy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/01 Metody wirtualne.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/02 Klasa abstrakcyjna.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/03 Dziedziczenie wielokrotne.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/04 Polimorfizm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/05 Podsumowanie programowania obiektowego.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/06 Dekoratory_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/07 Dekoratory_2_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/07 Dekoratory_2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/08 Wiecej o polach_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/08 Wiecej o polach_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/09 zmienne globalne i nielokalne_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/09 zmienne globalne i nielokalne_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/10 Jeszcze trochy o zmiennych.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/11 Obiekt None.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/12 Wyrazenia listowe 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/13 Wyrazenia listowe 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/14 Wyrazenia listowe 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/15 Wyrazenie lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/16Funkcje.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/17 Obiekt wywolywany 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/17 Obiekt wywolywany 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/18 Metody specjalne 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/19 Metody specjalne 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/20 Przeciazanie operatorow 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/21 Przeciazanie operatorow 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/22 Zapisywanie obiektu do pliku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/23 Obluga plikow i slowo kluczowe with.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/24 Unikanie Magic Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/25 Asercje.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/26 Else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/27 Grafika zolwia 1_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/27 Grafika zolwia 1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/27 Grafika zolwia 1_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/28 Grafika zolwia 2_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/28 Grafika zolwia 2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/28 Grafika zolwia 2_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/28 Grafika zolwia 2_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/28 Grafika zółwia 2_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/29 Biblioteka Tkinter 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/30 Biblioteka Tkinter 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/30 Biblioteka Tkinter 2_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/31 Biblioteka Tkinter 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/32 Biblioteka Tkinter 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/33 Dokumentowanie aplikacji.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/34 Sposoby przedstawiania danych.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/35 Testy jednostkowe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/Animal_01_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/Animal_02_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/Animal_02_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/Cars_07_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/Cars_07_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/Clock_20_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/Doc_33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/Duck_03_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/Duck_04_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/Foo_08_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/Foo_08_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/Numbers_06_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/Numbers_06_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/Obliczenia_35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/Test 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02PythonSrednioZaawansowany/test_35 Testy jednostkowe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/01PythonOdPodstaw.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/01PythonOdPodstaw.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 Zmienne.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 Zmienne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06 Operatory aretmetyczne.py" beforeDir="false" afterPath="$PROJECT_DIR$/06 Operatory aretmetyczne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08 Rzutowanie danych.py" beforeDir="false" afterPath="$PROJECT_DIR$/08 Rzutowanie danych.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11 Formatowanie.py" beforeDir="false" afterPath="$PROJECT_DIR$/11 Formatowanie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14 Operatory logiczne.py" beforeDir="false" afterPath="$PROJECT_DIR$/14 Operatory logiczne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 Zmienne typu logicznego.py" beforeDir="false" afterPath="$PROJECT_DIR$/15 Zmienne typu logicznego.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26 Kolekcje Iterowane.py" beforeDir="false" afterPath="$PROJECT_DIR$/26 Kolekcje Iterowane.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 Kolekcje dwówymiarowe.py" beforeDir="false" afterPath="$PROJECT_DIR$/27 Kolekcje dwówymiarowe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/37 Zmiana systemow pozycyjnych.py" beforeDir="false" afterPath="$PROJECT_DIR$/37 Zmiana systemow pozycyjnych.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/43 Sposoby debugowania aplikacji 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/43 Sposoby debugowania aplikacji 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "andrijr"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/andrijr/Python.git",
+    "accountId": "a8a934a2-4276-4414-a5d1-85b5b35e0eb0"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2TtQRfUHcVa3a555VlQrGWI4Xn1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.08 Rzutowanie danych.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11 Zagniezdzone petle For.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12 Instrukcja warunkowa IF.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15 Zmienne typu logicznego.executor&quot;: &quot;Run&quot;,
+    &quot;Python.26 Kolekcje Iterowane.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27 Kolekcje dwówymiarowe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.37 4 listy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.37 Zmiana systemow pozycyjnych.executor&quot;: &quot;Run&quot;,
+    &quot;Python.38 Wszystko jest obiektem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.43 Sposoby debugowania aplikacji 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.43 Sposoby debugowania aplikacji 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.48 Porownywanie obiektow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/_GitAR/Python/01PythonOdPodstaw&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Python.48 Porownywanie obiektow">
+    <configuration name="37 4 listy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="01PythonOdPodstaw" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/37 4 listy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="43 Sposoby debugowania aplikacji 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="01PythonOdPodstaw" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/43 Sposoby debugowania aplikacji 1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="43 Sposoby debugowania aplikacji 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="01PythonOdPodstaw" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/43 Sposoby debugowania aplikacji 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="48 Porownywanie obiektow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="01PythonOdPodstaw" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/48 Porownywanie obiektow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="01PythonOdPodstaw" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.48 Porownywanie obiektow" />
+        <item itemvalue="Python.43 Sposoby debugowania aplikacji 2" />
+        <item itemvalue="Python.43 Sposoby debugowania aplikacji 1" />
+        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.37 4 listy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +280,16 @@
       <updated>1691859890586</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

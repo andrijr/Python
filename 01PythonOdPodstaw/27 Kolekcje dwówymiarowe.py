@@ -37,3 +37,10 @@ for i in szachownica:
     for j in i:
         print(j, end="  ")
     print()
+
+
+for x in range(10):
+    print(x, "\n" , sep=" x")
+
+for x in range(10):
+    print(x, "\n" , end=" x")
